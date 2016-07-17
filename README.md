@@ -18,10 +18,14 @@ to make the speaker beep function. The Delphi code here has been tested to build
 Windows 10.
 
 The program displays a rather busy looking tabbed dialog window like thes when it starts.
+
 ![alt tag](https://raw.githubusercontent.com/x0ray/cw/master/texttocode.jpg)
+
 To sent some text as code, its just a matter of typing the text into the edit entry 
 field, and then clicking the "Send text as code now" button. The default speed is rather
 slow. This can be increased by selecting the "Set Options" tab at the top right. That will 
 display the options:
+
 ![alt tag](https://raw.githubusercontent.com/x0ray/cw/master/texttocode.jpg)
+
 The send using light scheme is just for amusement - I found it way harder to read!
